@@ -1,0 +1,3 @@
+X:/UNI/GIC++/pong-2020-mooseman48/cmake-build-debug/CMakeFiles/PongSFML.dir
+X:/UNI/GIC++/pong-2020-mooseman48/cmake-build-debug/CMakeFiles/edit_cache.dir
+X:/UNI/GIC++/pong-2020-mooseman48/cmake-build-debug/CMakeFiles/rebuild_cache.dir
